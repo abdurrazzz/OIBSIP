@@ -1,4 +1,4 @@
-Oasis Infobyte Virtual Internship - Data Science 
+**Oasis Infobyte Virtual Internship - Data Science** 
 1. Car data
    Developing a linear regression model to predict the price of the car based on variables such as horsepower, mileage, goodwill of the brand, time to manufacture, etc 
 
